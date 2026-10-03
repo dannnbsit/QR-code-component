@@ -130,7 +130,7 @@ img {
     main.card {
         background-color: hsl(0, 0%, 100%);
         width: 85%;
-        height: 75vh;
+        height: 65vh;
         border-radius: 20px;
         padding: 20px;
         display: flex;
